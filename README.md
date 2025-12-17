@@ -6,3 +6,7 @@
 
 ### Example
 ![Example](capm.PNG)
+
+### Beta & Alpha in TSLA
+
+![Beta & Alpha in TSLA](beta.PNG)
